@@ -1,0 +1,94 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+.nav {
+	background-color: black;
+  width: 200px;
+  height: 100%;
+  position: fixed;
+  padding-left: 0;
+  margin-left: 0;
+  left: -200px;
+}
+
+li {
+	list-style-type: none;
+  color: white;
+  margin-top: 20px;
+  width: 130px;
+}
+
+.container {
+	padding-left: 0;
+  margin-left: 0;
+  width: 200px;
+}
+
+.cross {
+	width: 15px;
+  height: 15px;
+  float: right;
+  cursor: pointer;
+}
+
+p {
+	width: 130px;
+}
+
+.jumbotron {
+	background: url("http://cookusart.com/images/1/photo-nature/photo-nature-03.jpg") no-repeat center center;
+  background-size: cover;
+  height: 500px;
+}
+
+.menu {
+	height: 30px;
+  width: 30px;
+  cursor: pointer;
+  margin-left: 50px;
+}
+
+h1 {
+	text-align: center;
+  
+}
+
+.main {
+	background: url("http://blog.jimdo.com/wp-content/uploads/2014/01/tree-247122.jpg") no-repeat center center;
+  height: 500px;
+  background-size: cover;
+}
+
+.sup {
+	background: url("http://www.quicksprout.com/images/foggygoldengatebridge.jpg") no-repeat center center;
+  background-size: cover;
+  height: 500px;
+}
+
+.abou {
+	text-decoration: none;
+  color: white;
+}
+
+.abou:hover {
+	text-decoration: none;
+  color: white;
+}
+
+.abou:visited {
+	text-decoration: none;
+  color: white;
+}
+
+.abou:active {
+	text-decoration: none;
+  color: white;
+}
+
+.abou:link {
+	text-decoration: none;
+  color: white;
+}
+
+
